@@ -1,4 +1,4 @@
-# Two Line Element to JSON (TLE2JSON) 🚴🏾‍♀️
+# Two Line Element sets to JSON (tle2json) 🚴🏾‍♀️
 
 This helps convert the two line element format to JSON.
 
@@ -9,7 +9,7 @@ This helps convert the two line element format to JSON.
 # Usage
 
 ```js
-const TLE2JSON = require('TLE2JSON');
+const TLE2JSON = require('tle2json');
 
 // This URL helps Track the Starlink and Falcon 9 Satellites
 const data = await TLE2JSON.convert({
