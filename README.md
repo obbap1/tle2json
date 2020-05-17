@@ -2,10 +2,9 @@
 
 This helps convert the two line element format to JSON.
 
-<div style="margin-left:10%">
-    <img src="https://res.cloudinary.com/pbaba/image/upload/v1589652610/Screenshot_2020-05-16_at_7.02.18_PM_md6ktx.png" width="40%" height="200" />
-    <img style="margin-left: 2%" src="https://res.cloudinary.com/pbaba/image/upload/v1589652604/Screenshot_2020-05-16_at_6.44.58_PM_b45huo.png" width="40%" height="200" />
-</div>
+![Original](https://res.cloudinary.com/pbaba/image/upload/v1589652610/Screenshot_2020-05-16_at_7.02.18_PM_md6ktx.png)
+
+![Transform](https://res.cloudinary.com/pbaba/image/upload/v1589652604/Screenshot_2020-05-16_at_6.44.58_PM_b45huo.png)
 
 # Usage
 
