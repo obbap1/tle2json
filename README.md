@@ -26,7 +26,7 @@ await TLE2JSON.convert({
 # Parameters
 
 1. url : The url to the location of the Two line element set.
-2. path : The location to where the file should be written to.
+2. path : The location to where the file should be written to. optional.
 
 # Algorithm
 
